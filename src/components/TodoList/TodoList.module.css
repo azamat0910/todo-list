@@ -1,0 +1,31 @@
+.btn {
+    margin-left: 10px;
+    
+}
+.btn_sort{
+    display: flex;
+    justify-content: right;
+    margin-top: 10px;
+
+}
+.btn_sort_buttons{
+    margin-right: 5px;
+}
+.listItems {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 25px;
+    padding: 6px;
+}
+
+.listItems:hover {
+    background-color: #ff9797;
+    border-radius: 6px;
+    
+}
+
+.close {
+    color: gray;
+    text-decoration: line-through;
+}
